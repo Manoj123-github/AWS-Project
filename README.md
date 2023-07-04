@@ -21,3 +21,13 @@ Expedia: They use S3 event triggering to automatically process and analyze data 
 
 
 ![image](https://github.com/Manoj123-github/AWS-Project/assets/76830665/c57be1a6-92c5-4fa8-a992-335aa8dd515b)
+
+
+
+![image](https://github.com/Manoj123-github/AWS-Project/assets/76830665/688b8f4d-c2f7-4087-bb70-a9a444b9a1cb)
+
+
+
+![image](https://github.com/Manoj123-github/AWS-Project/assets/76830665/8d9e4eb0-e07b-4922-a276-5757647306c3)
+
+
