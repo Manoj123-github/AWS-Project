@@ -1,9 +1,9 @@
 # AWS-Project
 
-# Project 01 
+# Project 01 - AWS Resources  Usage
 This script will report the AWS resources usage AWS S3, AWS EC2, AWS Lambda, AWS IAM Users 
 
-# Project 02 AWS S3 Event Triggering
+# Project 02 - AWS S3 Event Triggering
 AWS S3 Event triggering is a very popular project used by top companies in the Industry.
 
 Here are some examples of top companies that use S3 event triggering:
