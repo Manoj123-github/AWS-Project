@@ -1,0 +1,12 @@
+# Use below link to install official steps to install aws cli on your system
+
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+# for Linux system 
+
+Step1:- Download the installation file
+
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+ 
