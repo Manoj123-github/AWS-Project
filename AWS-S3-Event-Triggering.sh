@@ -38,7 +38,7 @@ role_response=$(aws iam create-role --role-name s3-lambda-sns --assume-role-poli
   }]
 }')
 
-# Extract the role ARN from the JSON response and store it in a variable
+# Extract the role  from the JSON response and store it in a variable
 role_arn=$(echo "$role_response" | jq -r '.Role.Arn')
 
 # Print the role ARN
@@ -92,7 +92,7 @@ aws s3api put-bucket-notification-configuration \
     }]
 }'
 
-# Create an SNS topic and save the topic ARN to a variable
+# Create an SNS topic and save the topic  to a variable
 topic_arn=$(aws sns create-topic --name s3-lambda-sns --output json | jq -r '.TopicArn')
 
 # Print the TopicArn
